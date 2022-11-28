@@ -1,0 +1,14 @@
+【go】2022/11/23 20:50:38 Hello Log
+【go】2022/11/23 20:50:38 Hello Log
+【go】2022/11/24 13:26:35 Hello Log
+【go】2022/11/25 11:07:45 Hello Log
+【go】2022/11/25 11:20:57 Hello Log
+【go】2022/11/25 22:37:30 {"ServiceName":"Log Service","ServiceURL":"http://localhost:4000/log"}
+
+【go】2022/11/25 22:37:51 {"ServiceName":"Log Service","ServiceURL":"http://localhost:4000/log"}
+
+【go】2022/11/25 22:38:53 {"ServiceName":"Log Service","ServiceURL":"http://localhost:4000/log"}
+
+【go】2022/11/25 22:39:01 {"ServiceName":"Log Service","ServiceURL":"http://localhost:4000/log"}
+
+【go】2022/11/26 16:30:25 Hello Log
